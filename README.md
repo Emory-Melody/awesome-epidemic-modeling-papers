@@ -26,13 +26,22 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 }
 ```
 
----
 
+## Notes:
+The current version only includes papers related to GNNs and we are working on adding more nonGNN papers.
+
+This repo will be consistently updated to keep track of the latest papers related to deep learning in epidemic modeling.
+
+
+## Catalog
 - [awesome-epidemic-modeling-papers](#awesome-epidemic-modeling-papers)
+  - [Notes:](#notes)
+  - [Catalog](#catalog)
   - [Detection](#detection)
   - [Surveillance](#surveillance)
   - [Projection](#projection)
   - [Prediction](#prediction)
+
 
 ## Detection
 1. [2023] **Inferring Patient Zero on Temporal Networks via Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26152)
