@@ -15,7 +15,7 @@ You can follow our latest survey to stay updated with the most recent advancemen
 
 
 
-If you find this repo helpful, we would appreciate it if you could cite our survey.
+If you find this repo helpful, we would appreciate it if you could kindly cite our survey.
 
 ```
 @article{liu2024review,
