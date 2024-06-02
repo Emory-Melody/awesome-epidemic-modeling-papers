@@ -2,7 +2,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Emory-Melody/awesome-epidemic-modeling-papers?color=yellow)
 
 
-📢📢📢 This repository keeps track of the latest papers on epidemic modeling with deep learning methods. We categorize them based on individual tasks.
+📢📢📢 [KDD 2024] This repository keeps track of the latest papers on epidemic modeling with deep learning methods. We categorize them based on individual tasks.
 
 If you want to add new entries, please make PRs with the same format.
 
@@ -21,7 +21,7 @@ If you find this repo helpful, we would appreciate it if you could kindly cite o
 @article{liu2024review,
   title={A Review of Graph Neural Networks in Epidemic Modeling},
   author={Zewen Liu, Guancheng Wan, B. Aditya Prakash, Max S. Y. Lau, Wei Jin},
-  journal={arXiv preprint arXiv:2403.19852},
+  journal={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
   year={2024}
 }
 ```
