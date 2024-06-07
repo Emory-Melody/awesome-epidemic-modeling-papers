@@ -63,10 +63,11 @@ This repo will be consistently updated to keep track of the latest papers relate
 
 ## Prediction
 1. [2023] **Research on the Forecast of the Spread of COVID-19** [[paper]](https://dl.acm.org/doi/abs/10.1145/3460238.3460246)
-2. [2023] **RESEAT: Recurrent Self-Attention Network for Multi-Regional Influenza Forecasting** [[paper]](https://ieeexplore.ieee.org/abstract/document/10050036)
-3. [2023] **A Graph Based Deep Learning Framework for Predicting Spatio-Temporal Vaccine Hesitancy** [[paper]](https://www.medrxiv.org/content/10.1101/2023.10.24.23297488v1)
-4. [2023] **Epidemiology-Aware Deep Learning for Infectious Disease Dynamics Prediction** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615139)
-5. [2023] **MepoGNN: Metapopulation Epidemic Forecasting with Graph Neural Network** [[paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_954.pdf)[[code]](https://github.com/deepkashiwa20/MepoGNN)
+1. [2023] **RESEAT: Recurrent Self-Attention Network for Multi-Regional Influenza Forecasting** [[paper]](https://ieeexplore.ieee.org/abstract/document/10050036)
+1. [2023] **A Graph Based Deep Learning Framework for Predicting Spatio-Temporal Vaccine Hesitancy** [[paper]](https://www.medrxiv.org/content/10.1101/2023.10.24.23297488v1)
+1. [2023] **HOPE: High-order Graph ODE For Modeling Interacting Dynamics** [[paper]](https://proceedings.mlr.press/v202/luo23f/luo23f.pdf)
+1. [2023] **Epidemiology-Aware Deep Learning for Infectious Disease Dynamics Prediction** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615139)
+7. [2023] **MepoGNN: Metapopulation Epidemic Forecasting with Graph Neural Network** [[paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_954.pdf)[[code]](https://github.com/deepkashiwa20/MepoGNN)
 6. [2023] **Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility** [[paper]](https://arxiv.org/abs/2306.14857)
 7. [2023] **Forecasting Infections with Spatio-Temporal Graph Neural Networks: A Case Study of the Dutch SARS-CoV-2 Spread** [[paper]](https://www.frontiersin.org/articles/10.3389/fphy.2023.1277052/full)
 8. [2023] **MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic Forecasting** [[paper]](https://arxiv.org/abs/2308.15840)
@@ -90,7 +91,9 @@ This repo will be consistently updated to keep track of the latest papers relate
 26. [2021] **Integrating LSTMs and GNNs for COVID-19 Forecasting** [[paper]](https://arxiv.org/abs/2108.10052) [[code]](https://github.com/jjgarau/GNND)
 27. [2021] **Prediction of the Effects of Epidemic Spreading with Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_35) [[code]](https://github.com/smeznar/Epidemic-spreading-CN2020)
 28. [2021] **Deep learning of contagion dynamics on complex networks** [[paper]](https://www.nature.com/articles/s41467-021-24732-2) [[code]](https://github.com/DynamicaLab/code-dynalearn/tree/v1.0) [[data]](https://github.com/DynamicaLab/data-dynalearn/tree/v1.0)
+
 29. [2021] **Transfer Graph Neural Networks for Pandemic Forecasting** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16616) [[code]](https://github.com/geopanag/pandemic_tgnn)
+29. [2021] **Coupled Graph ODE for Learning Interacting System Dynamics** [[paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467385) [[code]](https://github.com/ZijieH/CG-ODE)
 30. [2021] **Predicting the Dynamics of the COVID-19 Pandemic in the United States Using Graph Theory-Based Neural Networks** [[paper]](https://www.mdpi.com/1660-4601/18/7/3834) [[code]](https://github.com/RezaDavahli/Graph_neural_networks)
 31. [2020] **An Epidemiological Neural Network Exploiting Dynamic Graph Structured Data Applied to the COVID-19 Outbreak** [[paper]](https://ieeexplore.ieee.org/document/9234698) [[code]](https://github.com/marcopost-it/epidemiological-gcn)
 32. [2020] **STAN: Spatio-Temporal Attention Network for Pandemic Prediction Using Real-World Evidence** [[paper]](https://arxiv.org/abs/2008.04215)
