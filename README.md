@@ -13,6 +13,8 @@ You can follow our latest survey to stay updated with the most recent advancemen
 
 <div align=center><img src="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers/blob/main/figs/episurvey.png" width="1000" /></div>
 
+We also recommend [*EpiLearn*](https://github.com/Emory-Melody/EpiLearn), a python library dedicated to boosting epidemic modeling and analysis with machine learning.
+
 
 
 If you find this repo helpful, we would appreciate it if you could kindly cite our survey.
