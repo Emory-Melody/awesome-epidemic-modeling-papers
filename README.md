@@ -47,6 +47,9 @@ This repo will be consistently updated to keep track of the latest papers relate
   - [Prediction](#prediction)
 
 
+## Toolkit/Library/Package
+1. [2024] 🔥**EpiLearn: A Python Library for Machine Learning in Epidemic Modeling** [[paper]](https://github.com/Emory-Melody/EpiLearn) [[code]](https://github.com/Emory-Melody/EpiLearn)
+
 ## Detection
 1. [2023] **Inferring Patient Zero on Temporal Networks via Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26152)
 2. [2021] **Source Detection on Networks Using Spatial Temporal Graph Convolutional Networks** [[paper]](https://scholarworks.iupui.edu/server/api/core/bitstreams/3d2e45a4-76b6-40ee-a51f-24348db5cdd2/content) [[code]](https://github.com/anonymous-anuthor/SD-STGCN)
