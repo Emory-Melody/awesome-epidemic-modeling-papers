@@ -41,10 +41,12 @@ This repo will be consistently updated to keep track of the latest papers relate
 - [awesome-epidemic-modeling-papers](#awesome-epidemic-modeling-papers)
   - [Notes:](#notes)
   - [Catalog](#catalog)
+  - [Toolkit/Library/Package](#toolkitlibrarypackage)
   - [Detection](#detection)
   - [Surveillance](#surveillance)
   - [Projection](#projection)
   - [Prediction](#prediction)
+  - [Classic Methods](#classic-methods)
 
 
 ## Toolkit/Library/Package
@@ -106,3 +108,21 @@ This repo will be consistently updated to keep track of the latest papers relate
 32. [2020] **STAN: Spatio-Temporal Attention Network for Pandemic Prediction Using Real-World Evidence** [[paper]](https://arxiv.org/abs/2008.04215)
 33. [2020] **Examining COVID-19 Forecasting Using Spatio-Temporal Graph Neural Networks** [[paper]](https://arxiv.org/abs/2007.03113)
 34. [2019] **A Study on Graph-Structured Recurrent Neural Networks and Sparsification with Application to Epidemic Forecasting** [[paper]](https://arxiv.org/abs/1902.05113)
+
+
+
+## Classic Methods
+1. [2023] **EpiMob: Interactive Visual Analytics of Citywide Human Mobility Restrictions for Epidemic Control** [[paper]](https://ieeexplore.ieee.org/document/9750868/)
+2. [2021] **Countrywide Origin-Destination Matrix Prediction and Its Application for COVID-19** [[paper]](https://link.springer.com/10.1007/978-3-030-86514-6_20)
+3. [2021] **Networks and the epidemiology of infectious disease** [[paper]](https://pubmed.ncbi.nlm.nih.gov/21437001/)
+4. [2020] **Modelling the impact of testing, contact tracing and household quarantine on second waves of COVID-19** [[paper]](https://www.nature.com/articles/s41562-020-0931-9)
+5. [2020] **Modelling transmission and control of the COVID-19 pandemic in Australia** [[paper]](https://www.nature.com/articles/s41467-020-19393-6)
+6. [2020] **Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions** [[paper]](https://www.science.org/doi/10.1126/science.abb9789)
+7. [2020] **Monitoring Italian COVID-19 spread by a forced SEIRD model** [[paper]](https://dx.plos.org/10.1371/journal.pone.0237417)
+8. [2018] **Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model** [[paper]](https://www.sciencedirect.com/science/article/pii/S1755436516300445)
+9. [2017] **Ethics of Epidemics, Research and Surveillance: a WHO Workshop Report** [[paper]](https://doi.org/10.1007/s41649-017-0024-x)
+10. [2017] **Reproduction numbers of infectious disease models** [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S2468042717300209)
+11. [2013] **Forecasting methods and models of disease spread** [[paper]](https://www.researchgate.net/publication/335165992_Forecasting_methods_and_models_of_disease_spread)
+12. [2009] **Multiscale mobility networks and the spatial spreading of infectious diseases** [[paper]](https://pnas.org/doi/full/10.1073/pnas.0906910106)
+13. [2008] **Mathematical models of infectious disease transmission** [[paper]](https://www.nature.com/articles/nrmicro1845)
+14. [1927] **A contribution to the mathematical theory of epidemics** [[paper]](https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118)
