@@ -1,4 +1,4 @@
-# awesome-epidemic-modeling-papers
+# Awesome Epidemic Modeling Papers
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Emory-Melody/awesome-epidemic-modeling-papers?color=yellow)
 
 
@@ -38,10 +38,12 @@ This repo will be consistently updated to keep track of the latest papers relate
 
 
 ## Catalog
-- [awesome-epidemic-modeling-papers](#awesome-epidemic-modeling-papers)
+- [Awesome Epidemic Modeling Papers](#awesome-epidemic-modeling-papers)
   - [Notes:](#notes)
   - [Catalog](#catalog)
   - [Toolkit/Library/Package](#toolkitlibrarypackage)
+    - [Python](#python)
+    - [R](#r)
   - [Detection](#detection)
   - [Surveillance](#surveillance)
   - [Projection](#projection)
@@ -51,7 +53,25 @@ This repo will be consistently updated to keep track of the latest papers relate
 
 
 ## Toolkit/Library/Package
+### Python
 1. [2024] 🔥**EpiLearn: A Python Library for Machine Learning in Epidemic Modeling** [[paper]](https://github.com/Emory-Melody/EpiLearn) [[code]](https://github.com/Emory-Melody/EpiLearn)
+   - EpiLearn is a Pytorch-based machine learning tool-kit for epidemic data modeling and analysis. We provide numerour features including:
+     - Implementation of Epidemic Models
+     - Simulation of Epidemic Spreading
+     - Visualization of Epidemic Data
+     - Unified Pipeline for Epidemic Tasks
+2. [2021] **Eir: a python package for epidemic simulation** [[paper]](https://joss.theoj.org/papers/10.21105/joss.03247.pdf) [[code]](https://github.com/mjacob1002/Eir)
+   
+3. [2020] **Eon (epidemics on networks): a fast, flexible python package for simulation, analytic approximation, and analysis of epidemics on networks** [[paper]](https://arxiv.org/abs/2001.02436) [[code]](https://github.com/springer-math/Mathematics-of-Epidemics-on-Networks)
+
+### R
+1. [2022] EpiEstim [[paper]](https://cran.uib.no/web/packages/EpiEstim/EpiEstim.pdf) [[code]](https://github.com/mrc-ide/EpiEstim)
+2. [2018] EpiModel: An R Package for Mathematical Modeling of Infectious Disease over Networks [[paper]]() [[code]]()
+3. [2018] Epinet [[paper]](https://www.jstatsoft.org/article/view/v083i11) [[code]](https://cran.r-project.org/web/packages/epinet/index.html)
+4. [2016] Epifit [[code]](https://github.com/cran/epifit)
+5. [2015] EpiDynamics [[code]](https://github.com/oswaldosantos/EpiDynamics)
+
+
 
 ## Detection
 1. [2023] **Inferring Patient Zero on Temporal Networks via Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26152)
