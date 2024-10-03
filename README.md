@@ -93,6 +93,7 @@ This repo will be consistently updated to keep track of the latest papers relate
 
 
 ## Prediction
+1. [2024] **Privacy-preserving individual-level covid-19 infection prediction via federated graph learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3633202) [[code]](https://github.com/wjfu99/FL-epidemic)
 1. [2023] **Research on the Forecast of the Spread of COVID-19** [[paper]](https://dl.acm.org/doi/abs/10.1145/3460238.3460246)
 1. [2023] **RESEAT: Recurrent Self-Attention Network for Multi-Regional Influenza Forecasting** [[paper]](https://ieeexplore.ieee.org/abstract/document/10050036)
 2. [2023] **EINNs: Epidemiologically-informed Neural Networks** [[paper]](http://arxiv.org/abs/2202.10446)
